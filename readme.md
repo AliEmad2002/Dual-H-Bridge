@@ -40,7 +40,8 @@ When driving iductive loads,
 
     ==> R_max = 1213Ω  ==> use gate pulling resistor of 1kΩ.
 
-* Turn off time is limited by ICs, as while turning off, the gate is directly connected to ground.  
+* Turn off time is limited by ICs, as while turning off, the gate is directly connected to ground.
+* We can achive much faster switching time by using a push-pull configuration for gate driving, instead of the open-collector we are using. (Used to minimize cost and size)
 
 # Lab-made PCB:
 
