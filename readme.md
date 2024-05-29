@@ -47,7 +47,3 @@ When driving iductive loads,
 ![image](https://github.com/AliEmad2002/Dual-H-Bridge/assets/99054912/a6ef6520-d649-4fe4-891a-109d9c71d137)
 ![image](https://github.com/AliEmad2002/Dual-H-Bridge/assets/99054912/b77532b2-3a48-4088-8c75-dee44d61a7a7)
 
-
-
-# Demo test:
-This test runs two 12V-2A motors. Controlled by a PID controller on stm32f103c8t6:
